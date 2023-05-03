@@ -2,7 +2,7 @@
   "name": "@codistan-isb/api-plugin-emails-custom",
   "description": "Boilerplate Email Custom plugin for the Reaction API",
   "label": "Email Custom",
-  "version": "2.0.4-development",
+  "version": "2.0.5-development",
   "main": "index.js",
   "type": "module",
   "engines": {
