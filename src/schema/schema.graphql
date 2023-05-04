@@ -2,7 +2,7 @@ extend type Mutation {
   sendContactForm(
     name: String!
     email: String!
-    phoneNumber: String
+    phoneNumber: String!
     message: String!
   ): Boolean!
 }
